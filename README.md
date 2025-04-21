@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on building full-stack web apps using the MERN stack  
 - 🌱 Learning every day and leveling up with C++ and backend design  
 - 💌 Wanna collab or just say hi? **[singhananya5040@gmail.com](mailto:singhananya5040@gmail.com)**  
-- ✨ Fun fact: My favorite color is dark theme 😎  
 
 ---
 
@@ -49,7 +48,6 @@
 - 📦 Repositories: **26+**
 - 💻 Stack: **MERN + C++**
 - 🔥 Contributions in last year: **424+**
-- 🖤 Living that dark theme dev life.
 
 ---
 
