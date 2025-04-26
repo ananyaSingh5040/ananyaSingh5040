@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaSingh&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaSingh5040&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaSingh&show_icons=true&theme=dark&hide=prs&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyaSingh5040&show_icons=true&theme=dark&hide=prs&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
